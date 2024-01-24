@@ -4,7 +4,10 @@
 `git commit -m "say hello git in C"`
 
 `git push origin main`
+# if error try
+`git push -f origin main`
 
+`git push -u origin main`
 # easy pull
 `git pull`
 
